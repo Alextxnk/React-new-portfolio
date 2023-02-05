@@ -18,9 +18,12 @@ const Header = () => {
       <header className={`${bg ? 'bg-tertiary h-20' : 'h-24'} flex items-center fixed top-0 w-full text-white z-10 transition-all duration-300`}>
          <div className='container mx-auto h-full flex items-center justify-between'>
             {/* logo */}
-            <a href='#' className='text-2xl'>
+            {/* <a href='#' className='text-2xl'>
                Alexey Solovyev
-            </a>
+            </a> */}
+            <div className='text-2xl'>
+               Alexey Solovyev
+            </div>
             {/* nav */}
             <div className='hidden lg:block'>
                <Nav />

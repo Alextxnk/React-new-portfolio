@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.a1082d6e.css",
-    "main.js": "/static/js/main.d05dd79b.js",
+    "main.js": "/static/js/main.459a9c20.js",
     "static/media/profile-img.webp": "/static/media/profile-img.6b995d2c98de26ad2b44.webp",
     "static/media/about.webp": "/static/media/about.2c2bda9a46420b56d2b5.webp",
     "static/media/testimonial-2.webp": "/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
     "static/media/p1.webp": "/static/media/p1.52f0f3a89c11044c2037.webp",
     "static/media/p5.webp": "/static/media/p5.40f22911cc8104bfdf42.webp",
     "static/media/testimonial-3.webp": "/static/media/testimonial-3.677360499dd5a97f022a.webp",
-    "static/media/logo.svg": "/static/media/logo.b40a46869d8e3421cad9bf9a0b71804b.svg",
     "static/media/services.svg": "/static/media/services.0d43785bd1f41e4d0371.svg",
     "static/media/portfolio.svg": "/static/media/portfolio.bff8b39169bade93c32b.svg",
     "static/media/testimonials.svg": "/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
@@ -21,10 +20,10 @@
     "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/index.html",
     "main.a1082d6e.css.map": "/static/css/main.a1082d6e.css.map",
-    "main.d05dd79b.js.map": "/static/js/main.d05dd79b.js.map"
+    "main.459a9c20.js.map": "/static/js/main.459a9c20.js.map"
   },
   "entrypoints": [
     "static/css/main.a1082d6e.css",
-    "static/js/main.d05dd79b.js"
+    "static/js/main.459a9c20.js"
   ]
 }
